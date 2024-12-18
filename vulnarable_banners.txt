@@ -1,0 +1,6 @@
+SSH-2.0-OpenSSH_7.4
+Apache HTTPD 2.4.1
+OpenSSL/1.0.2g
+nginx/1.14.0
+FTP/1.0
+MySQL 5.7.20
